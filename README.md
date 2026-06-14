@@ -1,4 +1,4 @@
-Namaste! I'm [Your Name]I am an 11th-grade Indian student balancing the intense PCM (Physics, Chemistry, Maths) grind with a deep passion for software engineering.
+Namaste! I'm [Devashya Thakur]I am an 11th-grade Indian student balancing the intense PCM (Physics, Chemistry, Maths) grind with a deep passion for software engineering.
 My ultimate goal is to pursue my Bachelor's degree in the US and build a career as a Software Engineer in Silicon Valley. 
 i have been learning and building with Python. I am currently focusing on data structures.
 I am actively building my profile for US undergraduate admissions.
